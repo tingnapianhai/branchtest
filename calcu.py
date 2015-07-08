@@ -4,14 +4,7 @@ import csv
 
 '''
 strnum = raw_input("Enter the data number: ")
-num = int(strnum)
-datalist = list()
-for i in range(num):
-    str1 = raw_input("Enter No."+str(i+1)+' data: ')
-    datalist.append(float(str1))
 
-print "Input completed. Total number: " + str(len(datalist))
-for i in range(num):
     print datalist[i]
 '''
 
