@@ -3,6 +3,7 @@ import numpy
 import csv
 
 '''
+wo...
 strnum = raw_input("Enter the data number: ")
 
     print datalist[i]
